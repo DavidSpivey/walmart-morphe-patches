@@ -5,6 +5,24 @@ Personal Morphe patch bundle for the Walmart Android app (`com.walmart.android`)
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/DavidSpivey/walmart-morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Walmart&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**Package name:** `com.walmart.android`
+
+**🎯 Supported versions:**
+
+| 26.42 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable automatic store mode](#disable-automatic-store-mode) | Stops the store mode sheet from popping up on its own when you open the app in a store. Location, store-specific pricing, the in-store search filter and the store mode banner/button still work. |  |
+
+</details>
+
 <!-- PATCHES_END -->
 
 ### Disable automatic store mode
