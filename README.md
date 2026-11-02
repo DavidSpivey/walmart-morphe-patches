@@ -4,6 +4,9 @@ Personal Morphe patch bundle for the Walmart Android app (`com.walmart.android`)
 
 ## Patches
 
+<!-- PATCHES_START EXPANDED -->
+<!-- PATCHES_END -->
+
 ### Disable automatic store mode
 Stops the store mode sheet from popping up by itself when you open the app inside a Walmart.
 
